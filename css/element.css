@@ -1,0 +1,3770 @@
+@media only screen and (min-width: 1920px) {
+    #SECTION1107 {
+        height: 725px;
+    }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1920px) {
+    #SECTION1107 {
+        height: 760px;
+    }
+}
+
+@media only screen and (min-width: 1366px) and (max-width: 1400px) {
+    #SECTION1107 {
+        height: 660px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1366px) {
+    #SECTION1107 {
+        height: 595px;
+    }
+}
+
+@media (min-width: 768px) {
+    #SECTION_POPUP {
+        height: 0px;
+    }
+    #SECTION1107>.ladi-container {
+        margin-left: 12%;
+    }
+    #SECTION1107>.ladi-overlay {
+        background-size: cover;
+        background-attachment: scroll;
+        background-origin: content-box;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/banner-12.png");
+        background-position: left top;
+        background-repeat: no-repeat;
+        opacity: 0.81;
+    }
+    #SECTION1107>.ladi-section-background {
+        background-color: #282845;
+    }
+    #SECTION546 {
+        height: 733px;
+    }
+    #SECTION546>.ladi-section-background {
+        background: #a30b01;
+        background: -webkit-linear-gradient(180deg, #a30b01, #c22a21);
+        background: linear-gradient(180deg, #a30b01, #c22a21);
+    }
+    #SECTION632 {
+        height: 667px;
+    }
+    #SECTION632>.ladi-section-background {
+        background-color: #f0f0f0;
+    }
+    #SECTION1112 {
+        height: 503px;
+    }
+    #SECTION1112>.ladi-section-background {
+        background-color: #ffffff;
+    }
+    #SECTION838 {
+        height: 509px;
+    }
+    #SECTION838>.ladi-section-background {
+        background-color: #a30c01;
+    }
+    #HEADLINE1108 {
+        width: 477px;
+        top: 38%;
+        left: 52px;
+    }
+    #HEADLINE1108>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #911710;
+        font-size: 24px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 2px;
+        line-height: 1.2;
+    }
+    #PARAGRAPH1109 {
+        width: 427px;
+        top: 63%;
+        left: 77px;
+    }
+    #PARAGRAPH1109>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffa800;
+        font-size: 21px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.8;
+    }
+    #HEADLINE1110 {
+        width: 563px;
+        top: 45%;
+        left: 9px;
+    }
+    #HEADLINE1110>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #911710;
+        font-size: 41px;
+        font-weight: bold;
+        text-align: center;
+        letter-spacing: 2px;
+        line-height: 1.2;
+    }
+    #HEADLINE1110.ladi-animation>.ladi-headline {
+        animation-name: pulse;
+        -webkit-animation-name: pulse;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #BOX593 {
+        width: 369px;
+        height: 642px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX593>.ladi-box {
+        background-color: #911710;
+    }
+    #HEADLINE601 {
+        width: 233px;
+        top: 36.5393px;
+        left: 33px;
+    }
+    #HEADLINE601>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #FORM1082 {
+        width: 302px;
+        height: 418.984px;
+        top: 80.3865px;
+        left: 33px;
+    }
+    #FORM1082>.ladi-form {
+        color: #f0f0f0;
+        font-size: 14px;
+        line-height: 1;
+    }
+    #FORM1082 .ladi-form-item .ladi-form-control::placeholder,
+    #FORM1082 .ladi-form .ladi-form-item .ladi-form-control-select[data-selected=""],
+    #FORM1082 .ladi-form .ladi-form-item.ladi-form-checkbox .ladi-form-checkbox-item span[data-checked="false"] {
+        color: #f0f0f0;
+    }
+    #FORM1082 .ladi-form-item-container .ladi-form-item .ladi-form-control-select {
+        background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="24" viewBox="0 0 32 24"><polygon points="0,0 32,0 16,24" style="fill: rgba(240%2C%20240%2C%20240%2C%201.0)"></polygon></svg>');
+    }
+    #FORM1082 .ladi-form-item-container {
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 1px;
+    }
+    #FORM_ITEM1083 {
+        width: 302px;
+        height: 40.1932px;
+        top: 0px;
+        left: 0px;
+    }
+    #FORM_ITEM1084 {
+        width: 302px;
+        height: 40.1932px;
+        top: 54.809px;
+        left: 0px;
+    }
+    #FORM_ITEM1085 {
+        width: 302px;
+        height: 40.1932px;
+        top: 109.618px;
+        left: 0px;
+    }
+    #FORM_ITEM1086 {
+        width: 302px;
+        height: 40.1932px;
+        top: 164.427px;
+        left: 0px;
+    }
+    #FORM_ITEM1087 {
+        width: 302px;
+        height: 40.1932px;
+        top: 219.236px;
+        left: 0px;
+    }
+    #FORM_ITEM1088 {
+        width: 302px;
+        height: 80.312px;
+        top: 284.045px;
+        left: 0px;
+    }
+    #FORM_ITEM1089 {
+        top: 374.357px;
+        left: 0px;
+    }
+    #BUTTON_TEXT1087 {
+        width: 146px;
+        top: 7.7px !important;
+        left: 0px;
+    }
+    #BUTTON_TEXT1087>.ladi-headline {
+        color: #333333;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1.4;
+        background: transparent;
+    }
+    #BUTTON1087 {
+        width: 155px;
+        height: 32.6292px;
+        top: 466.355px;
+        left: 0px;
+    }
+    #BUTTON1087>.ladi-button>.ladi-button-background {
+        background-color: #ffca0d;
+    }
+    #BUTTON1087>.ladi-button {
+        border-radius: 5px;
+    }
+    #GROUP1111 {
+        width: 625.68px;
+        height: 549.339px;
+        top: 60.5px;
+        left: 0px;
+    }
+    #PARAGRAPH548 {
+        width: 622px;
+        top: 84px;
+        left: 0px;
+    }
+    #PARAGRAPH548>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 16px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #HEADLINE549 {
+        width: 611px;
+        top: 0px;
+        left: 0px;
+    }
+    #HEADLINE549>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 19px;
+        font-weight: bold;
+        text-align: left;
+        letter-spacing: 1px;
+        line-height: 1.2;
+    }
+    #HEADLINE549.ladi-animation>.ladi-headline {
+        animation-name: bounceIn;
+        -webkit-animation-name: bounceIn;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 2s;
+        -webkit-animation-duration: 2s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #LINE566 {
+        width: 211px;
+        top: 201px;
+        left: 0px;
+    }
+    #LINE566>.ladi-line>.ladi-line-container {
+        border-top: 2px solid #ffca0d;
+        border-right: 2px solid #ffca0d;
+        border-bottom: 2px solid #ffca0d;
+        border-left: 0px !important;
+    }
+    #LINE566>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #GROUP602 {
+        width: 618.555px;
+        height: 324.339px;
+        top: 225px;
+        left: 7.12521px;
+    }
+    #GROUP571 {
+        width: 307.324px;
+        height: 115px;
+        top: 0px;
+        left: 0px;
+    }
+    #HEADLINE552 {
+        width: 232px;
+        top: 0px;
+        left: 75.3237px;
+    }
+    #HEADLINE552>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffca0e;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #GROUP569 {
+        width: 62.0911px;
+        height: 61px;
+        top: 23px;
+        left: 0px;
+    }
+    #GROUP569.ladi-animation>.ladi-group {
+        animation-name: swing;
+        -webkit-animation-name: swing;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #BOX567 {
+        width: 62.0911px;
+        height: 61px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX567>.ladi-overlay {
+        border-radius: 300px;
+    }
+    #BOX567>.ladi-box {
+        border-radius: 300px;
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #ffca0d;
+        border-width: 2px;
+    }
+    #SHAPE551 {
+        width: 38.6797px;
+        height: 38px;
+        top: 11.5px;
+        left: 11.7057px;
+    }
+    #SHAPE551>.ladi-shape {
+        transform: rotate(-6deg);
+        -webkit-transform: rotate(-6deg);
+    }
+    #SHAPE551 svg:last-child {
+        fill: #00a6f6;
+    }
+    #PARAGRAPH553 {
+        width: 213px;
+        top: 43px;
+        left: 76.3416px;
+    }
+    #PARAGRAPH553>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #LINE570 {
+        width: 56px;
+        top: 23px;
+        left: 75.3237px;
+    }
+    #LINE570>.ladi-line>.ladi-line-container {
+        border-top: 1px solid #d4d4d4;
+        border-right: 1px solid #d4d4d4;
+        border-bottom: 1px solid #d4d4d4;
+        border-left: 0px !important;
+    }
+    #LINE570>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #GROUP572 {
+        width: 281.181px;
+        height: 115px;
+        top: 0px;
+        left: 332.849px;
+    }
+    #HEADLINE573 {
+        width: 200px;
+        top: 0px;
+        left: 66.1627px;
+    }
+    #HEADLINE573>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffca0e;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #GROUP574 {
+        width: 62.0911px;
+        height: 61px;
+        top: 27px;
+        left: 0px;
+    }
+    #BOX575 {
+        width: 62.0911px;
+        height: 61px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX575>.ladi-overlay {
+        border-radius: 300px;
+    }
+    #BOX575>.ladi-box {
+        border-radius: 300px;
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #ffca0d;
+        border-width: 2px;
+    }
+    #SHAPE576 {
+        width: 38.6797px;
+        height: 38px;
+        top: 11.5px;
+        left: 11.7057px;
+    }
+    #SHAPE576 svg:last-child {
+        fill: #00a6f6;
+    }
+    #PARAGRAPH577 {
+        width: 214px;
+        top: 43px;
+        left: 67.1806px;
+    }
+    #PARAGRAPH577>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #LINE578 {
+        width: 56px;
+        top: 23px;
+        left: 66.1627px;
+    }
+    #LINE578>.ladi-line>.ladi-line-container {
+        border-top: 1px solid #d4d4d4;
+        border-right: 1px solid #d4d4d4;
+        border-bottom: 1px solid #d4d4d4;
+        border-left: 0px !important;
+    }
+    #LINE578>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #GROUP579 {
+        width: 291.36px;
+        height: 155.339px;
+        top: 169px;
+        left: 327.195px;
+    }
+    #HEADLINE580 {
+        width: 210px;
+        top: 0px;
+        left: 76.3417px;
+    }
+    #HEADLINE580>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffca0e;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #GROUP581 {
+        width: 62.0913px;
+        height: 60.0782px;
+        top: 27.0261px;
+        left: 0px;
+    }
+    #BOX582 {
+        width: 62.0913px;
+        height: 60.0782px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX582>.ladi-overlay {
+        border-radius: 300px;
+    }
+    #BOX582>.ladi-box {
+        border-radius: 300px;
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #ffca0d;
+        border-width: 2px;
+    }
+    #SHAPE583 {
+        width: 38.6799px;
+        height: 37.4258px;
+        top: 12.8035px;
+        left: 13.2326px;
+    }
+    #SHAPE583 svg:last-child {
+        fill: #00a6f6;
+    }
+    #LINE585 {
+        width: 56px;
+        top: 38px;
+        left: 76.3417px;
+    }
+    #LINE585>.ladi-line>.ladi-line-container {
+        border-top: 1px solid #d4d4d4;
+        border-right: 1px solid #d4d4d4;
+        border-bottom: 1px solid #d4d4d4;
+        border-left: 0px !important;
+    }
+    #LINE585>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #GROUP586 {
+        width: 285.163px;
+        height: 133px;
+        top: 169px;
+        left: 5.68434px;
+    }
+    #HEADLINE587 {
+        width: 219px;
+        top: 0px;
+        left: 66.1626px;
+    }
+    #HEADLINE587>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffca0e;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #GROUP588 {
+        width: 62.091px;
+        height: 61px;
+        top: 25px;
+        left: 0px;
+    }
+    #BOX589 {
+        width: 62.091px;
+        height: 61px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX589>.ladi-overlay {
+        border-radius: 300px;
+    }
+    #BOX589>.ladi-box {
+        border-radius: 300px;
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #ffca0d;
+        border-width: 2px;
+    }
+    #SHAPE590 {
+        width: 38.6796px;
+        height: 38px;
+        top: 11.5px;
+        left: 11.7057px;
+    }
+    #SHAPE590 svg:last-child {
+        fill: #00a6f6;
+    }
+    #PARAGRAPH591 {
+        width: 210px;
+        top: 43px;
+        left: 67.1805px;
+    }
+    #PARAGRAPH591>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #LINE592 {
+        width: 56px;
+        top: 23px;
+        left: 66.1626px;
+    }
+    #LINE592>.ladi-line>.ladi-line-container {
+        border-top: 1px solid #d4d4d4;
+        border-right: 1px solid #d4d4d4;
+        border-bottom: 1px solid #d4d4d4;
+        border-left: 0px !important;
+    }
+    #LINE592>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #BOX802 {
+        width: 220px;
+        height: 377px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX802>.ladi-box {
+        box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        -webkit-box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #e0e0e0;
+        border-width: 0px;
+    }
+    #PARAGRAPH803 {
+        width: 189px;
+        top: 241.231px;
+        left: 15.7143px;
+    }
+    #PARAGRAPH803>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 14px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #HEADLINE805 {
+        width: 185px;
+        top: 211.429px;
+        left: 17.1875px;
+    }
+    #HEADLINE805>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #595959;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #IMAGE1088 {
+        width: 220px;
+        height: 197.734px;
+        top: 0px;
+        left: 0px;
+    }
+    #IMAGE1088>.ladi-image>.ladi-image-background {
+        width: 242.667px;
+        height: 197.734px;
+        top: 0px;
+        left: -9.33333px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/chuongtrinhdaotao-1.jpg");
+    }
+    #HEADLINE633 {
+        width: 328px;
+        top: 50px;
+        left: 316px;
+    }
+    #HEADLINE633>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #1c1c1c;
+        font-size: 22px;
+        font-weight: bold;
+        text-align: center;
+        letter-spacing: 1px;
+        line-height: 1;
+    }
+    #HEADLINE634 {
+        width: 757px;
+        top: 116px;
+        left: 101.5px;
+    }
+    #HEADLINE634>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #c0281f;
+        font-size: 21px;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #LINE651 {
+        width: 130px;
+        top: 91px;
+        left: 416px;
+    }
+    #LINE651>.ladi-line>.ladi-line-container {
+        border-top: 2px solid #ffca0d;
+        border-right: 2px solid #ffca0d;
+        border-bottom: 2px solid #ffca0d;
+        border-left: 0px !important;
+    }
+    #LINE651>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #BOX1089 {
+        width: 220px;
+        height: 377px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1089>.ladi-box {
+        box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        -webkit-box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #e0e0e0;
+        border-width: 0px;
+    }
+    #PARAGRAPH1090 {
+        width: 189px;
+        top: 241.231px;
+        left: 15.7143px;
+    }
+    #PARAGRAPH1090>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 14px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #HEADLINE1091 {
+        width: 201px;
+        top: 211.429px;
+        left: 9.7143px;
+    }
+    #HEADLINE1091>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #595959;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #BOX1095 {
+        width: 220px;
+        height: 377px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1095>.ladi-box {
+        box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        -webkit-box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #e0e0e0;
+        border-width: 0px;
+    }
+    #PARAGRAPH1096 {
+        width: 189px;
+        top: 241.231px;
+        left: 18.1696px;
+    }
+    #PARAGRAPH1096>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 14px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #HEADLINE1097 {
+        width: 185px;
+        top: 214.031px;
+        left: 19.6429px;
+    }
+    #HEADLINE1097>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #595959;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #IMAGE1098 {
+        width: 220px;
+        height: 197.734px;
+        top: 0px;
+        left: 0px;
+    }
+    #IMAGE1098>.ladi-image>.ladi-image-background {
+        width: 242.667px;
+        height: 197.734px;
+        top: 0px;
+        left: -9.33333px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/chuongtrinhdaotao-2.jpg");
+    }
+    #BOX1101 {
+        width: 220px;
+        height: 377px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1101>.ladi-box {
+        box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        -webkit-box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #e0e0e0;
+        border-width: 0px;
+    }
+    #PARAGRAPH1102 {
+        width: 189px;
+        top: 241.231px;
+        left: 15.7143px;
+    }
+    #PARAGRAPH1102>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 14px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #HEADLINE1103 {
+        width: 185px;
+        top: 214.031px;
+        left: 19.6429px;
+    }
+    #HEADLINE1103>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #595959;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #IMAGE1104 {
+        width: 220px;
+        height: 197.734px;
+        top: 0px;
+        left: 0px;
+    }
+    #IMAGE1104>.ladi-image>.ladi-image-background {
+        width: 242.667px;
+        height: 197.734px;
+        top: 0px;
+        left: -9.33333px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/chuongtrinhdaotao-3.jpg");
+    }
+    #HEADLINE1113 {
+        width: 359px;
+        top: 46px;
+        left: 300.5px;
+    }
+    #HEADLINE1113>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 23px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1;
+    }
+    #BOX1116 {
+        width: 182.318px;
+        height: 124.962px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1116>.ladi-box {
+        box-shadow: 0px 1px 0px 0px #b8b8b8;
+        -webkit-box-shadow: 0px 1px 0px 0px #b8b8b8;
+        background-color: #ffffff;
+    }
+    #HEADLINE1117 {
+        width: 115px;
+        top: 17.8464px;
+        left: 33.5203px;
+    }
+    #HEADLINE1117>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #HEADLINE1118 {
+        width: 154px;
+        top: 41.2697px;
+        left: 17.5203px;
+    }
+    #HEADLINE1118>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 15px;
+        font-style: italic;
+        text-align: justify;
+        line-height: 1.2;
+    }
+    #PARAGRAPH1124 {
+        width: 851px;
+        top: 99px;
+        left: 54.5005px;
+    }
+    #PARAGRAPH1124>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 16px;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #LINE842 {
+        width: 149px;
+        top: 85px;
+        left: 405.5px;
+    }
+    #LINE842>.ladi-line>.ladi-line-container {
+        border-top: 2px solid #ffca0d;
+        border-right: 2px solid #ffca0d;
+        border-bottom: 2px solid #ffca0d;
+        border-left: 0px !important;
+    }
+    #LINE842>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #HEADLINE841 {
+        width: 470px;
+        top: 48px;
+        left: 245px;
+    }
+    #HEADLINE841>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 28px;
+        font-weight: bold;
+        text-align: center;
+        letter-spacing: 1px;
+        line-height: 1;
+    }
+    #HEADLINE841.ladi-animation>.ladi-headline {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #HEADLINE840 {
+        width: 820px;
+        top: 116px;
+        left: 80.641px;
+    }
+    #HEADLINE840>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 16px;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #GROUP1149 {
+        width: 301px;
+        height: 542px;
+        top: 60.5px;
+        left: 659px;
+    }
+    #GROUP1149.ladi-animation>.ladi-group {
+        animation-name: bounceInUp;
+        -webkit-animation-name: bounceInUp;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #GROUP1150 {
+        width: 220px;
+        height: 377px;
+        top: 176px;
+        left: 0px;
+    }
+    #GROUP1153 {
+        width: 220px;
+        height: 377px;
+        top: 176px;
+        left: 245px;
+    }
+    #GROUP1156 {
+        width: 220px;
+        height: 377px;
+        top: 176px;
+        left: 492px;
+    }
+    #GROUP1159 {
+        width: 220px;
+        height: 377px;
+        top: 176px;
+        left: 741px;
+    }
+    #GROUP1162 {
+        width: 182.318px;
+        height: 124.962px;
+        top: 351.038px;
+        left: 0px;
+    }
+    #GROUP1162.ladi-animation>.ladi-group {
+        animation-name: pulse;
+        -webkit-animation-name: pulse;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #IMAGE1176 {
+        width: 217.959px;
+        height: 182.033px;
+        top: 13%;
+        left: 283px;
+    }
+    #IMAGE1176>.ladi-image>.ladi-image-background {
+        width: 167.959px;
+        height: 159.033px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/logo-mau.png");
+    }
+    #IMAGE1177 {
+        width: 217.959px;
+        height: 182.033px;
+        top: 12%;
+        left: 123px;
+    }
+    #IMAGE1177>.ladi-image>.ladi-image-background {
+        width: 162.959px;
+        height: 172.033px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/Logo-TTCEdu-01.png");
+    }
+    #IMAGE1092 {
+        width: 220px;
+        height: 196.786px;
+        top: 0px;
+        left: 0px;
+    }
+    #IMAGE1092>.ladi-image>.ladi-image-background {
+        width: 242.667px;
+        height: 196.786px;
+        top: 0px;
+        left: -9.33333px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/chuongtrinhdaotao-4.jpg");
+    }
+    #BUTTON1177 {
+        width: 261.072px;
+        height: 51.0004px;
+        top: 583.364px;
+        left: 349.464px;
+    }
+    #BUTTON1177>.ladi-button>.ladi-button-background {
+        background-color: #a80c03;
+    }
+    #BUTTON1177>.ladi-button {
+        border-radius: 5px;
+        box-shadow: 28px 15px 26px -20px #000;
+        -webkit-box-shadow: 28px 15px 26px -20px #000;
+        border-color: #000000;
+        border-width: 1px;
+    }
+    #BUTTON1177.ladi-animation>.ladi-button {
+        animation-name: bounceIn;
+        -webkit-animation-name: bounceIn;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #BUTTON1177>.ladi-button:hover {
+        background-color: #b20404;
+        border-color: #f0f0f0;
+    }
+    #BUTTON1177>.ladi-button:hover .ladi-button-background {
+        background-color: #b20404;
+    }
+    #BUTTON_TEXT1177 {
+        width: 259px;
+        top: 9px;
+        left: 0px;
+    }
+    #BUTTON_TEXT1177>.ladi-headline {
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #IMAGE1186 {
+        width: 156.318px;
+        height: 156.318px;
+        top: 187.388px;
+        left: 18.0795px;
+    }
+    #IMAGE1186>.ladi-image>.ladi-image-background {
+        width: 156.318px;
+        height: 156.318px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/cosovatchat-1.png");
+    }
+    #IMAGE1186.ladi-animation>.ladi-image {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #IMAGE1187 {
+        width: 155.477px;
+        height: 155.477px;
+        top: 187.388px;
+        left: 402.262px;
+    }
+    #IMAGE1187>.ladi-image>.ladi-image-background {
+        width: 155.477px;
+        height: 155.477px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/cosovatchat-3.png");
+    }
+    #IMAGE1187.ladi-animation>.ladi-image {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #IMAGE1188 {
+        width: 156.571px;
+        height: 156.571px;
+        top: 186.715px;
+        left: 209.429px;
+    }
+    #IMAGE1188>.ladi-image>.ladi-image-background {
+        width: 156.571px;
+        height: 156.571px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/cosovatchat-2.png");
+    }
+    #IMAGE1188.ladi-animation>.ladi-image {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #IMAGE1189 {
+        width: 155.477px;
+        height: 155.477px;
+        top: 186.715px;
+        left: 592.785px;
+    }
+    #IMAGE1189>.ladi-image>.ladi-image-background {
+        width: 155.477px;
+        height: 155.477px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/cosovatchat-4.png");
+    }
+    #IMAGE1189.ladi-animation>.ladi-image {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #IMAGE1190 {
+        width: 155.477px;
+        height: 155.477px;
+        top: 186.715px;
+        left: 782.761px;
+    }
+    #IMAGE1190>.ladi-image>.ladi-image-background {
+        width: 155.477px;
+        height: 155.477px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/cosovatchat-5.png");
+    }
+    #IMAGE1190.ladi-animation>.ladi-image {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #BOX1192 {
+        width: 182.318px;
+        height: 124.962px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1192>.ladi-box {
+        box-shadow: 0px 1px 0px 0px #b8b8b8;
+        -webkit-box-shadow: 0px 1px 0px 0px #b8b8b8;
+        background-color: #ffffff;
+    }
+    #HEADLINE1193 {
+        width: 129px;
+        top: 17.8464px;
+        left: 26.5203px;
+    }
+    #HEADLINE1193>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #HEADLINE1194 {
+        width: 154px;
+        top: 41.2697px;
+        left: 17.5203px;
+    }
+    #HEADLINE1194>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 15px;
+        font-style: italic;
+        text-align: justify;
+        line-height: 1.2;
+    }
+    #GROUP1191 {
+        width: 182.318px;
+        height: 124.962px;
+        top: 351.038px;
+        left: 196.555px;
+    }
+    #GROUP1191.ladi-animation>.ladi-group {
+        animation-name: pulse;
+        -webkit-animation-name: pulse;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #BOX1196 {
+        width: 182.318px;
+        height: 124.962px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1196>.ladi-box {
+        box-shadow: 0px 1px 0px 0px #b8b8b8;
+        -webkit-box-shadow: 0px 1px 0px 0px #b8b8b8;
+        background-color: #ffffff;
+    }
+    #HEADLINE1197 {
+        width: 157px;
+        top: 17.8464px;
+        left: 12.5203px;
+    }
+    #HEADLINE1197>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #HEADLINE1198 {
+        width: 149px;
+        top: 41.2697px;
+        left: 15.5203px;
+    }
+    #HEADLINE1198>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 15px;
+        font-style: italic;
+        text-align: justify;
+        line-height: 1.2;
+    }
+    #GROUP1195 {
+        width: 182.318px;
+        height: 124.962px;
+        top: 351.038px;
+        left: 391.482px;
+    }
+    #GROUP1195.ladi-animation>.ladi-group {
+        animation-name: pulse;
+        -webkit-animation-name: pulse;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #BOX1200 {
+        width: 182.318px;
+        height: 124.962px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1200>.ladi-box {
+        box-shadow: 0px 1px 0px 0px #b8b8b8;
+        -webkit-box-shadow: 0px 1px 0px 0px #b8b8b8;
+        background-color: #ffffff;
+    }
+    #HEADLINE1201 {
+        width: 115px;
+        top: 17.8464px;
+        left: 33.5203px;
+    }
+    #HEADLINE1201>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #HEADLINE1202 {
+        width: 154px;
+        top: 41.2697px;
+        left: 17.5203px;
+    }
+    #HEADLINE1202>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 15px;
+        font-style: italic;
+        text-align: justify;
+        line-height: 1.2;
+    }
+    #GROUP1199 {
+        width: 182.318px;
+        height: 124.962px;
+        top: 351.038px;
+        left: 584.365px;
+    }
+    #GROUP1199.ladi-animation>.ladi-group {
+        animation-name: pulse;
+        -webkit-animation-name: pulse;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #BOX1204 {
+        width: 182.318px;
+        height: 124.962px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1204>.ladi-box {
+        box-shadow: 0px 1px 0px 0px #b8b8b8;
+        -webkit-box-shadow: 0px 1px 0px 0px #b8b8b8;
+        background-color: #ffffff;
+    }
+    #HEADLINE1205 {
+        width: 115px;
+        top: 17.8464px;
+        left: 33.5203px;
+    }
+    #HEADLINE1205>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #HEADLINE1206 {
+        width: 154px;
+        top: 41.2697px;
+        left: 17.5203px;
+    }
+    #HEADLINE1206>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 15px;
+        font-style: italic;
+        text-align: justify;
+        line-height: 1.2;
+    }
+    #GROUP1203 {
+        width: 182.318px;
+        height: 124.962px;
+        top: 351.038px;
+        left: 777.682px;
+    }
+    #GROUP1203.ladi-animation>.ladi-group {
+        animation-name: pulse;
+        -webkit-animation-name: pulse;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #SECTION1225 {
+        height: 706.9px;
+    }
+    #IMAGE1226 {
+        width: 633.394px;
+        height: 254px;
+        top: 131.95px;
+        left: 0px;
+    }
+    #IMAGE1226>.ladi-image>.ladi-image-background {
+        width: 633.394px;
+        height: 356.284px;
+        top: -102.284px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-1.jpg");
+    }
+    #HEADLINE1227 {
+        width: 432px;
+        top: 49.9px;
+        left: 406px;
+    }
+    #HEADLINE1227>.ladi-headline {
+        color: #97130b;
+        font-size: 30px;
+        font-weight: bold;
+        text-align: right;
+        line-height: 1.2;
+    }
+    #IMAGE1228 {
+        width: 306.788px;
+        height: 254px;
+        top: 131.95px;
+        left: 653.212px;
+    }
+    #IMAGE1228>.ladi-image>.ladi-image-background {
+        width: 306.788px;
+        height: 267.986px;
+        top: -6.986px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-2.jpg");
+    }
+    #LINE1229 {
+        height: 90px;
+        top: 22.9px;
+        left: 890px;
+    }
+    #LINE1229>.ladi-line>.ladi-line-container {
+        border-top: 0px !important;
+        border-right: 4px solid #f2420d;
+        border-bottom: 4px solid #f2420d;
+        border-left: 4px solid #f2420d;
+    }
+    #LINE1229>.ladi-line {
+        height: 100%;
+        transform: rotate(-90deg);
+        -webkit-transform: rotate(-90deg);
+        padding: 0px 8px;
+    }
+    #IMAGE1231 {
+        width: 235.788px;
+        height: 236px;
+        top: 411.9px;
+        left: 0px;
+    }
+    #IMAGE1231>.ladi-image>.ladi-image-background {
+        width: 306.788px;
+        height: 236px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-3.jpg");
+    }
+    #IMAGE1234 {
+        width: 235.788px;
+        height: 236px;
+        top: 411.9px;
+        left: 241px;
+    }
+    #IMAGE1234>.ladi-image>.ladi-image-background {
+        width: 271.299px;
+        height: 236.986px;
+        top: 0px;
+        left: -13px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-4.jpg");
+    }
+    #IMAGE1235 {
+        width: 235.788px;
+        height: 236px;
+        top: 411.9px;
+        left: 482.424px;
+    }
+    #IMAGE1235>.ladi-image>.ladi-image-background {
+        width: 298.791px;
+        height: 261px;
+        top: -25px;
+        left: -23px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-5.jpg");
+    }
+    #IMAGE1236 {
+        width: 235.788px;
+        height: 236px;
+        top: 411.9px;
+        left: 724.212px;
+    }
+    #IMAGE1236>.ladi-image>.ladi-image-background {
+        width: 270.17px;
+        height: 236px;
+        top: 0px;
+        left: -34.382px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-6.jpg");
+    }
+    #IMAGE1237 {
+        width: 124.776px;
+        height: 112.739px;
+        top: 169.247px;
+        left: 69px;
+    }
+    #IMAGE1237>.ladi-image>.ladi-image-background {
+        width: 124.776px;
+        height: 112.739px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/thongtintuyensinh-1.png");
+    }
+    #IMAGE1240 {
+        width: 124.776px;
+        height: 112.739px;
+        top: 169.247px;
+        left: 763.5px;
+    }
+    #IMAGE1240>.ladi-image>.ladi-image-background {
+        width: 124.776px;
+        height: 165.055px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/thongtintuyensinh-4.png");
+    }
+    #IMAGE1239 {
+        width: 124.776px;
+        height: 112.739px;
+        top: 169.247px;
+        left: 532.5px;
+    }
+    #IMAGE1239>.ladi-image>.ladi-image-background {
+        width: 124.776px;
+        height: 131.089px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/thongtintuyensinh-3.png");
+    }
+    #IMAGE1241 {
+        width: 124.776px;
+        height: 112.739px;
+        top: 169.247px;
+        left: 291.612px;
+    }
+    #IMAGE1241>.ladi-image>.ladi-image-background {
+        width: 124.776px;
+        height: 122.363px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/thongtintuyensinh-2.png");
+    }
+    #HEADLINE1242 {
+        width: 198px;
+        top: 298.6px;
+        left: 17.776px;
+    }
+    #HEADLINE1242>.ladi-headline {
+        color: #ffca0d;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #HEADLINE1243 {
+        width: 198px;
+        top: 298.6px;
+        left: 259px;
+    }
+    #HEADLINE1243>.ladi-headline {
+        color: #ffca0d;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #HEADLINE1244 {
+        width: 198px;
+        top: 298.6px;
+        left: 498.888px;
+    }
+    #HEADLINE1244>.ladi-headline {
+        color: #ffca0d;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #HEADLINE1245 {
+        width: 198px;
+        top: 298.6px;
+        left: 732.888px;
+    }
+    #HEADLINE1245>.ladi-headline {
+        color: #ffca0d;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #PARAGRAPH1246 {
+        width: 183px;
+        top: 334.6px;
+        left: 25.276px;
+    }
+    #PARAGRAPH1246>.ladi-paragraph {
+        color: #ffffff;
+        font-size: 13px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #PARAGRAPH1247 {
+        width: 183px;
+        top: 334.6px;
+        left: 266.5px;
+    }
+    #PARAGRAPH1247>.ladi-paragraph {
+        color: #ffffff;
+        font-size: 13px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #PARAGRAPH1248 {
+        width: 219px;
+        top: 334.6px;
+        left: 488.388px;
+    }
+    #PARAGRAPH1248>.ladi-paragraph {
+        color: #ffffff;
+        font-size: 13px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #PARAGRAPH1249 {
+        width: 183px;
+        top: 334.6px;
+        left: 740.388px;
+    }
+    #PARAGRAPH1249>.ladi-paragraph {
+        color: #ffffff;
+        font-size: 13px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #BUTTON1250 {
+        width: 317px;
+        height: 40px;
+        top: 421.6px;
+        left: 321.469px;
+    }
+    #BUTTON1250>.ladi-button>.ladi-button-background {
+        background-color: #ffca0d;
+    }
+    #BUTTON1250>.ladi-button {
+        border-radius: 10px;
+        border-style: groove;
+        border-color: rgba(0, 0, 0, 0);
+        border-width: 1px;
+    }
+    #BUTTON1250.ladi-animation>.ladi-button {
+        animation-name: pulse;
+        -webkit-animation-name: pulse;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: infinite;
+        -webkit-animation-iteration-count: infinite;
+    }
+    #BUTTON_TEXT1250 {
+        width: 315px;
+        top: 9px;
+        left: 0px;
+    }
+    #BUTTON_TEXT1250>.ladi-headline {
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #SECTION1264 {
+        height: 480px;
+    }
+    #SECTION1264>.ladi-overlay {
+        background-color: rgba(163, 13, 1, 0.7);
+    }
+    #SECTION1264>.ladi-section-background {
+        background-size: cover;
+        background-attachment: scroll;
+        background-origin: content-box;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/banner-bottom.jpg");
+        background-position: center top;
+        background-repeat: no-repeat;
+    }
+    #IMAGE1265 {
+        width: 102.374px;
+        height: 87.5px;
+        top: 36.5px;
+        left: 105.902px;
+    }
+    #IMAGE1265>.ladi-image>.ladi-image-background {
+        width: 105.226px;
+        height: 87.5px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/logo-trang.png");
+    }
+    #IMAGE1266 {
+        width: 253.374px;
+        height: 87.5px;
+        top: 40.5px;
+        left: 545.902px;
+    }
+    #IMAGE1266>.ladi-image>.ladi-image-background {
+        width: 253.374px;
+        height: 87.5px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/LogoCambridge-01.png");
+    }
+    #HEADLINE1269 {
+        width: 351px;
+        top: 178px;
+        left: 0px;
+    }
+    #HEADLINE1269>.ladi-headline {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff;
+        font-size: 14px;
+        text-align: left;
+        line-height: 1.4;
+    }
+    #SHAPE1277 {
+        width: 33.4451px;
+        height: 31.902px;
+        top: 291.098px;
+        left: 8.88178px;
+    }
+    #SHAPE1277 svg:last-child {
+        fill: #ffffff;
+    }
+    #HEADLINE1278 {
+        width: 360px;
+        top: 148.4px;
+        left: 0px;
+    }
+    #HEADLINE1278>.ladi-headline {
+        color: #ffffff;
+        font-size: 15px;
+        font-weight: bold;
+        line-height: 1.6;
+    }
+    #SHAPE1280 {
+        width: 33.4451px;
+        height: 34.192px;
+        top: 333.451px;
+        left: 8.88178px;
+    }
+    #SHAPE1280 svg:last-child {
+        fill: #ffffff;
+    }
+    #SHAPE1281 {
+        width: 33.4451px;
+        height: 31.9018px;
+        top: 374.451px;
+        left: 8.88178px;
+    }
+    #SHAPE1281 svg:last-child {
+        fill: #ffffff;
+    }
+    #HEADLINE1282 {
+        width: 351px;
+        top: 303px;
+        left: 59px;
+    }
+    #HEADLINE1282>.ladi-headline {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff;
+        font-size: 14px;
+        text-align: left;
+        line-height: 1.4;
+    }
+    #HEADLINE1283 {
+        width: 351px;
+        top: 346.643px;
+        left: 59px;
+    }
+    #HEADLINE1283>.ladi-headline {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: left;
+        line-height: 1.4;
+    }
+    #HEADLINE1284 {
+        width: 351px;
+        top: 385.353px;
+        left: 59px;
+    }
+    #HEADLINE1284>.ladi-headline {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: left;
+        line-height: 1.4;
+    }
+    #SHAPE1312 {
+        width: 33.4451px;
+        height: 32.9018px;
+        top: 242.294px;
+        left: 8.88178px;
+    }
+    #SHAPE1312 svg:last-child {
+        fill: #ffffff;
+    }
+    #HEADLINE1313 {
+        width: 351px;
+        top: 255.196px;
+        left: 59px;
+    }
+    #HEADLINE1313>.ladi-headline {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff;
+        font-size: 14px;
+        text-align: left;
+        line-height: 1.4;
+    }
+    #HTML_CODE1314 {
+        width: 513.388px;
+        height: 320.867px;
+        top: 145.762px;
+        left: 425px;
+    }
+    #BUTTON_TEXT1318 {
+        width: 238px;
+        top: 9px;
+        left: 0px;
+    }
+    #BUTTON_TEXT1318>.ladi-headline {
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #BUTTON1318 {
+        width: 319px;
+        height: 40px;
+        top: 77%;
+        left: 131px;
+    }
+    #BUTTON1318>.ladi-button>.ladi-button-background {
+        background: #911710;
+        background: -webkit-linear-gradient(180deg, #911710, #e70d00);
+        background: linear-gradient(180deg, #911710, #e70d00);
+    }
+    #BUTTON1318>.ladi-button {
+        border-radius: 5px;
+    }
+    #BUTTON1318.ladi-animation>.ladi-button {
+        animation-name: bounceInLeft;
+        -webkit-animation-name: bounceInLeft;
+        animation-delay: 2s;
+        -webkit-animation-delay: 2s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #PARAGRAPH1320 {
+        width: 427px;
+        top: 68%;
+        left: 77px;
+    }
+    #PARAGRAPH1320>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffa800;
+        font-size: 21px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.8;
+    }
+    #PARAGRAPH584 {
+        width: 214px;
+        top: 55.3391px;
+        left: 77.3596px;
+    }
+    #PARAGRAPH584>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+}
+
+@media (max-width: 767px) {
+    #SECTION_POPUP {
+        height: 0px;
+    }
+    #SECTION1107 {
+        height: 292px;
+    }
+    #SECTION1107>.ladi-overlay {
+        background-size: cover;
+        background-attachment: scroll;
+        background-origin: content-box;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/banner-13.png");
+        background-position: left top;
+        background-repeat: no-repeat;
+        opacity: 0.81;
+    }
+    #SECTION1107>.ladi-container {
+        margin-left: -30px;
+    }
+    #SECTION1107>.ladi-section-background {
+        background-color: #282845;
+    }
+    #SECTION546 {
+        height: 1380px;
+    }
+    #SECTION546>.ladi-section-background {
+        background: #a30b01;
+        background: -webkit-linear-gradient(180deg, #a30b01, #c22a21);
+        background: linear-gradient(180deg, #a30b01, #c22a21);
+    }
+    #SECTION632 {
+        height: 1569px;
+    }
+    #SECTION632>.ladi-section-background {
+        background-color: #f0f0f0;
+    }
+    #SECTION1112 {
+        height: 1666.59px;
+    }
+    #SECTION1112>.ladi-section-background {
+        background-color: #ffffff;
+    }
+    #SECTION838 {
+        height: 1152.96px;
+    }
+    #SECTION838>.ladi-section-background {
+        background-color: #a30c01;
+    }
+    #HEADLINE1108 {
+        width: 300px;
+        top: 84px;
+        left: 25.5px;
+    }
+    #HEADLINE1108>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #911710;
+        font-size: 12px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: center;
+        letter-spacing: 2px;
+        line-height: 1.2;
+    }
+    #PARAGRAPH1109 {
+        width: 313px;
+        top: 157.5px;
+        left: 15px;
+    }
+    #PARAGRAPH1109>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffa800;
+        font-size: 13px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.8;
+    }
+    #HEADLINE1110 {
+        width: 329px;
+        top: 102.5px;
+        left: 7px;
+    }
+    #HEADLINE1110>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #911710;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+        letter-spacing: 2px;
+        line-height: 1.2;
+    }
+    #HEADLINE1110.ladi-animation>.ladi-headline {
+        animation-name: pulse;
+        -webkit-animation-name: pulse;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #BOX593 {
+        width: 420px;
+        height: 516px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX593>.ladi-box {
+        background-color: #911710;
+    }
+    #HEADLINE601 {
+        width: 324px;
+        top: 26.0808px;
+        left: 46.0465px;
+    }
+    #HEADLINE601>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #FORM1082 {
+        width: 337.674px;
+        height: 299.059px;
+        top: 57.3776px;
+        left: 46.0465px;
+    }
+    #FORM1082>.ladi-form {
+        color: #f0f0f0;
+        font-size: 14px;
+        line-height: 1;
+    }
+    #FORM1082 .ladi-form-item .ladi-form-control::placeholder,
+    #FORM1082 .ladi-form .ladi-form-item .ladi-form-control-select[data-selected=""],
+    #FORM1082 .ladi-form .ladi-form-item.ladi-form-checkbox .ladi-form-checkbox-item span[data-checked="false"] {
+        color: #f0f0f0;
+    }
+    #FORM1082 .ladi-form-item-container .ladi-form-item .ladi-form-control-select {
+        background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="24" viewBox="0 0 32 24"><polygon points="0,0 32,0 16,24" style="fill: rgba(240%2C%20240%2C%20240%2C%201.0)"></polygon></svg>');
+    }
+    #FORM1082 .ladi-form-item-container {
+        border-style: solid;
+        border-color: #ffffff;
+        border-width: 1px;
+    }
+    #FORM_ITEM1083 {
+        width: 337.674px;
+        height: 28.6888px;
+        top: 0px;
+        left: 0px;
+    }
+    #FORM_ITEM1084 {
+        width: 337.674px;
+        height: 28.6888px;
+        top: 39.121px;
+        left: 0px;
+    }
+    #FORM_ITEM1085 {
+        width: 337.674px;
+        height: 28.6888px;
+        top: 78.2423px;
+        left: 0px;
+    }
+    #FORM_ITEM1086 {
+        width: 337.674px;
+        height: 28.6888px;
+        top: 117.363px;
+        left: 0px;
+    }
+    #FORM_ITEM1087 {
+        width: 337.674px;
+        height: 28.6888px;
+        top: 156.484px;
+        left: 0px;
+    }
+    #FORM_ITEM1088 {
+        width: 337.674px;
+        height: 60.835px;
+        top: 205.605px;
+        left: 0px;
+    }
+    #FORM_ITEM1089 {
+        top: 276.305px;
+        left: 0px;
+    }
+    #BUTTON_TEXT1087 {
+        width: 105px;
+        top: 7.7px !important;
+        left: 0px;
+    }
+    #BUTTON_TEXT1087>.ladi-headline {
+        color: #333333;
+        font-size: 14px;
+        text-align: center;
+        line-height: 1.4;
+        background: transparent;
+    }
+    #BUTTON1087 {
+        width: 146.512px;
+        height: 30.4274px;
+        top: 366.355px;
+        left: 0px;
+    }
+    #BUTTON1087>.ladi-button>.ladi-button-background {
+        background-color: #ffca0d;
+    }
+    #BUTTON1087>.ladi-button {
+        border-radius: 5px;
+    }
+    #GROUP1111 {
+        width: 355.5px;
+        height: 824.222px;
+        top: 31px;
+        left: 22.5px;
+    }
+    #PARAGRAPH548 {
+        width: 355px;
+        top: 64.2797px;
+        left: 9.5px;
+    }
+    #PARAGRAPH548>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #HEADLINE549 {
+        width: 355px;
+        top: 0px;
+        left: 0px;
+    }
+    #HEADLINE549>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        letter-spacing: 1px;
+        line-height: 1.2;
+    }
+    #HEADLINE549.ladi-animation>.ladi-headline {
+        animation-name: bounceIn;
+        -webkit-animation-name: bounceIn;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 2s;
+        -webkit-animation-duration: 2s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #LINE566 {
+        width: 207px;
+        top: 213.02px;
+        left: 4px;
+    }
+    #LINE566>.ladi-line>.ladi-line-container {
+        border-top: 2px solid #ffca0d;
+        border-right: 2px solid #ffca0d;
+        border-bottom: 2px solid #ffca0d;
+        border-left: 0px !important;
+    }
+    #LINE566>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #GROUP602 {
+        width: 306.5px;
+        height: 584.829px;
+        top: 239.393px;
+        left: 23.25px;
+    }
+    #GROUP571 {
+        width: 301px;
+        height: 115.618px;
+        top: 0px;
+        left: 5.5px;
+    }
+    #HEADLINE552 {
+        width: 228px;
+        top: 0px;
+        left: 65px;
+    }
+    #HEADLINE552>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffca0e;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #GROUP569 {
+        width: 51px;
+        height: 51.7335px;
+        top: 36.5178px;
+        left: 0px;
+    }
+    #BOX567 {
+        width: 51px;
+        height: 51.7335px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX567>.ladi-overlay {
+        border-radius: 300px;
+    }
+    #BOX567>.ladi-box {
+        border-radius: 300px;
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #ffca0d;
+        border-width: 2px;
+    }
+    #SHAPE551 {
+        width: 30px;
+        height: 30.4315px;
+        top: 10.651px;
+        left: 10.5px;
+    }
+    #SHAPE551>.ladi-shape {
+        transform: rotate(-6deg);
+        -webkit-transform: rotate(-6deg);
+    }
+    #SHAPE551 svg:last-child {
+        fill: #00a6f6;
+    }
+    #PARAGRAPH553 {
+        width: 235px;
+        top: 43.6185px;
+        left: 66px;
+    }
+    #PARAGRAPH553>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #LINE570 {
+        width: 55px;
+        top: 23.3308px;
+        left: 65px;
+    }
+    #LINE570>.ladi-line>.ladi-line-container {
+        border-top: 1px solid #d4d4d4;
+        border-right: 1px solid #d4d4d4;
+        border-bottom: 1px solid #d4d4d4;
+        border-left: 0px !important;
+    }
+    #LINE570>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #GROUP572 {
+        width: 298.101px;
+        height: 115.618px;
+        top: 133.898px;
+        left: 5.5px;
+    }
+    #HEADLINE573 {
+        width: 205px;
+        top: 0px;
+        left: 71.0523px;
+    }
+    #HEADLINE573>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffca0e;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #GROUP574 {
+        width: 53.4649px;
+        height: 51.7333px;
+        top: 48.6902px;
+        left: 0px;
+    }
+    #BOX575 {
+        width: 53.4649px;
+        height: 51.7333px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX575>.ladi-overlay {
+        border-radius: 300px;
+    }
+    #BOX575>.ladi-box {
+        border-radius: 300px;
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #ffca0d;
+        border-width: 2px;
+    }
+    #SHAPE576 {
+        width: 36.6916px;
+        height: 35.5033px;
+        top: 8.11503px;
+        left: 8.38665px;
+    }
+    #SHAPE576 svg:last-child {
+        fill: #00a6f6;
+    }
+    #PARAGRAPH577 {
+        width: 220px;
+        top: 43.6183px;
+        left: 78.1006px;
+    }
+    #PARAGRAPH577>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #LINE578 {
+        width: 58px;
+        top: 23.3307px;
+        left: 71.0523px;
+    }
+    #LINE578>.ladi-line>.ladi-line-container {
+        border-top: 1px solid #d4d4d4;
+        border-right: 1px solid #d4d4d4;
+        border-bottom: 1px solid #d4d4d4;
+        border-left: 0px !important;
+    }
+    #LINE578>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #GROUP579 {
+        width: 304px;
+        height: 153.033px;
+        top: 431.796px;
+        left: 0px;
+    }
+    #HEADLINE580 {
+        width: 224px;
+        top: 0px;
+        left: 70px;
+    }
+    #HEADLINE580>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffca0e;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #GROUP581 {
+        width: 51px;
+        height: 49.3667px;
+        top: 50.5667px;
+        left: 0px;
+    }
+    #BOX582 {
+        width: 51px;
+        height: 49.3667px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX582>.ladi-overlay {
+        border-radius: 300px;
+    }
+    #BOX582>.ladi-box {
+        border-radius: 300px;
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #ffca0d;
+        border-width: 2px;
+    }
+    #SHAPE583 {
+        width: 36px;
+        height: 34.6706px;
+        top: 7.84804px;
+        left: 7.5px;
+    }
+    #SHAPE583 svg:last-child {
+        fill: #00a6f6;
+    }
+    #LINE585 {
+        width: 55px;
+        top: 38px;
+        left: 71px;
+    }
+    #LINE585>.ladi-line>.ladi-line-container {
+        border-top: 1px solid #d4d4d4;
+        border-right: 1px solid #d4d4d4;
+        border-bottom: 1px solid #d4d4d4;
+        border-left: 0px !important;
+    }
+    #LINE585>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #GROUP586 {
+        width: 303px;
+        height: 133.618px;
+        top: 276.694px;
+        left: 0.75px;
+    }
+    #HEADLINE587 {
+        width: 217px;
+        top: 0px;
+        left: 71px;
+    }
+    #HEADLINE587>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffca0e;
+        font-size: 16px;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #GROUP588 {
+        width: 51px;
+        height: 51.7336px;
+        top: 43.6185px;
+        left: 0px;
+    }
+    #BOX589 {
+        width: 51px;
+        height: 51.7336px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX589>.ladi-overlay {
+        border-radius: 300px;
+    }
+    #BOX589>.ladi-box {
+        border-radius: 300px;
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #ffca0d;
+        border-width: 2px;
+    }
+    #SHAPE590 {
+        width: 35px;
+        height: 35.5035px;
+        top: 8.62227px;
+        left: 8.5px;
+    }
+    #SHAPE590 svg:last-child {
+        fill: #00a6f6;
+    }
+    #PARAGRAPH591 {
+        width: 231px;
+        top: 43.6185px;
+        left: 72px;
+    }
+    #PARAGRAPH591>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+    #LINE592 {
+        width: 55px;
+        top: 23.3308px;
+        left: 71px;
+    }
+    #LINE592>.ladi-line>.ladi-line-container {
+        border-top: 1px solid #d4d4d4;
+        border-right: 1px solid #d4d4d4;
+        border-bottom: 1px solid #d4d4d4;
+        border-left: 0px !important;
+    }
+    #LINE592>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #BOX802 {
+        width: 341px;
+        height: 300px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX802>.ladi-box {
+        box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        -webkit-box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #e0e0e0;
+        border-width: 0px;
+    }
+    #PARAGRAPH803 {
+        width: 291px;
+        top: 204.255px;
+        left: 25.7645px;
+    }
+    #PARAGRAPH803>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #HEADLINE805 {
+        width: 286px;
+        top: 179.635px;
+        left: 30.3111px;
+    }
+    #HEADLINE805>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #595959;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #IMAGE1088 {
+        width: 339.485px;
+        height: 165.957px;
+        top: 0px;
+        left: 0px;
+    }
+    #IMAGE1088>.ladi-image>.ladi-image-background {
+        width: 348.818px;
+        height: 232.545px;
+        top: -33px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/chuongtrinhdaotao-1.jpg");
+    }
+    #HEADLINE633 {
+        width: 323px;
+        top: 30px;
+        left: 48.5px;
+    }
+    #HEADLINE633>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #1c1c1c;
+        font-size: 21px;
+        font-weight: bold;
+        text-align: center;
+        letter-spacing: 1px;
+        line-height: 1;
+    }
+    #HEADLINE634 {
+        width: 355px;
+        top: 90px;
+        left: 32.5px;
+    }
+    #HEADLINE634>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #c0281f;
+        font-size: 18px;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #LINE651 {
+        width: 130px;
+        top: 61px;
+        left: 145px;
+    }
+    #LINE651>.ladi-line>.ladi-line-container {
+        border-top: 2px solid #ffca0d;
+        border-right: 2px solid #ffca0d;
+        border-bottom: 2px solid #ffca0d;
+        border-left: 0px !important;
+    }
+    #LINE651>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #BOX1089 {
+        width: 341px;
+        height: 300px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1089>.ladi-box {
+        box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        -webkit-box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #e0e0e0;
+        border-width: 0px;
+    }
+    #PARAGRAPH1090 {
+        width: 292px;
+        top: 205.505px;
+        left: 25.8794px;
+    }
+    #PARAGRAPH1090>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #HEADLINE1091 {
+        width: 288px;
+        top: 180.734px;
+        left: 30.4464px;
+    }
+    #HEADLINE1091>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #595959;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #BOX1095 {
+        width: 341px;
+        height: 300px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1095>.ladi-box {
+        box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        -webkit-box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #e0e0e0;
+        border-width: 0px;
+    }
+    #PARAGRAPH1096 {
+        width: 292px;
+        top: 205.505px;
+        left: 25.8794px;
+    }
+    #PARAGRAPH1096>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #HEADLINE1097 {
+        width: 288px;
+        top: 180.734px;
+        left: 30.4464px;
+    }
+    #HEADLINE1097>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #595959;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #IMAGE1098 {
+        width: 341px;
+        height: 166.972px;
+        top: 0px;
+        left: 0px;
+    }
+    #IMAGE1098>.ladi-image>.ladi-image-background {
+        width: 350.333px;
+        height: 182px;
+        top: 0px;
+        left: -9.33333px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/chuongtrinhdaotao-2.jpg");
+    }
+    #BOX1101 {
+        width: 341px;
+        height: 300px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1101>.ladi-box {
+        box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        -webkit-box-shadow: 0px 0px 5px 0px rgba(74, 74, 74, 0.06);
+        background-color: #ffffff;
+        border-style: solid;
+        border-color: #e0e0e0;
+        border-width: 0px;
+    }
+    #PARAGRAPH1102 {
+        width: 292px;
+        top: 205.505px;
+        left: 25.8794px;
+    }
+    #PARAGRAPH1102>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #HEADLINE1103 {
+        width: 287px;
+        top: 180.734px;
+        left: 30.4464px;
+    }
+    #HEADLINE1103>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #595959;
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #IMAGE1104 {
+        width: 341px;
+        height: 166.972px;
+        top: 0px;
+        left: 0px;
+    }
+    #IMAGE1104>.ladi-image>.ladi-image-background {
+        width: 350.333px;
+        height: 182px;
+        top: 0px;
+        left: -9.33333px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/chuongtrinhdaotao-3.jpg");
+    }
+    #HEADLINE1113 {
+        width: 359px;
+        top: 39px;
+        left: 29.5px;
+    }
+    #HEADLINE1113>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 27px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 0.833333;
+    }
+    #BOX1116 {
+        width: 296px;
+        height: 94px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1116>.ladi-box {
+        box-shadow: 0px 1px 0px 0px #b8b8b8;
+        -webkit-box-shadow: 0px 1px 0px 0px #b8b8b8;
+        background-color: #ffffff;
+    }
+    #HEADLINE1117 {
+        width: 188px;
+        top: 12.7971px;
+        left: 54px;
+    }
+    #HEADLINE1117>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #HEADLINE1118 {
+        width: 295px;
+        top: 42.4058px;
+        left: 0.5px;
+    }
+    #HEADLINE1118>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 16px;
+        font-style: italic;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #PARAGRAPH1124 {
+        width: 355px;
+        top: 74px;
+        left: 33.5px;
+    }
+    #PARAGRAPH1124>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 15px;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #LINE842 {
+        width: 149px;
+        top: 61px;
+        left: 135.5px;
+    }
+    #LINE842>.ladi-line>.ladi-line-container {
+        border-top: 2px solid #ffca0d;
+        border-right: 2px solid #ffca0d;
+        border-bottom: 2px solid #ffca0d;
+        border-left: 0px !important;
+    }
+    #LINE842>.ladi-line {
+        width: 100%;
+        padding: 8px 0px;
+    }
+    #HEADLINE841 {
+        width: 306px;
+        top: 20px;
+        left: 56.9531px;
+    }
+    #HEADLINE841>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 21px;
+        font-weight: bold;
+        text-align: center;
+        letter-spacing: 1px;
+        line-height: 1;
+    }
+    #HEADLINE841.ladi-animation>.ladi-headline {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #HEADLINE840 {
+        width: 355px;
+        top: 90px;
+        left: 32.5px;
+    }
+    #HEADLINE840>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 16px;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #GROUP1149 {
+        width: 420px;
+        height: 366px;
+        top: 878px;
+        left: 0px;
+    }
+    #GROUP1150 {
+        width: 341px;
+        height: 300px;
+        top: 149px;
+        left: 39.5px;
+    }
+    #GROUP1153 {
+        width: 341px;
+        height: 300px;
+        top: 481px;
+        left: 39.5px;
+    }
+    #GROUP1156 {
+        width: 341px;
+        height: 300px;
+        top: 813px;
+        left: 39.5px;
+    }
+    #GROUP1159 {
+        width: 341px;
+        height: 300px;
+        top: 1146px;
+        left: 39.5px;
+    }
+    #GROUP1162 {
+        width: 296px;
+        height: 94px;
+        top: 329.272px;
+        left: 56.5px;
+    }
+    #IMAGE1176 {
+        width: 100.618px;
+        height: 84.033px;
+        top: 20px;
+        left: 176.5px;
+    }
+    #IMAGE1176>.ladi-image>.ladi-image-background {
+        width: 59.618px;
+        height: 54.033px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/logo-mau.png");
+    }
+    #IMAGE1177 {
+        width: 126.618px;
+        height: 87.033px;
+        top: 20px;
+        left: 79.5px;
+    }
+    #IMAGE1177>.ladi-image>.ladi-image-background {
+        width: 53.618px;
+        height: 56.033px;
+        top: 0px;
+        left: 30px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/Logo-TTCEdu-01.png");
+    }
+    #IMAGE1092 {
+        width: 341px;
+        height: 166.972px;
+        top: 0px;
+        left: 0px;
+    }
+    #IMAGE1092>.ladi-image>.ladi-image-background {
+        width: 350.333px;
+        height: 182px;
+        top: 0px;
+        left: -9.33333px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/chuongtrinhdaotao-4.jpg");
+    }
+    #BUTTON1177 {
+        width: 261.072px;
+        height: 51.0004px;
+        top: 1480px;
+        left: 85.464px;
+    }
+    #BUTTON1177>.ladi-button>.ladi-button-background {
+        background-color: #a80c03;
+    }
+    #BUTTON1177>.ladi-button {
+        border-radius: 5px;
+        box-shadow: 28px 15px 26px -20px #000;
+        -webkit-box-shadow: 28px 15px 26px -20px #000;
+        border-color: #000000;
+        border-width: 1px;
+    }
+    #BUTTON1177.ladi-animation>.ladi-button {
+        animation-name: bounceIn;
+        -webkit-animation-name: bounceIn;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #BUTTON1177>.ladi-button:hover {
+        background-color: #b20404;
+        border-color: #f0f0f0;
+    }
+    #BUTTON1177>.ladi-button:hover .ladi-button-background {
+        background-color: #b20404;
+    }
+    #BUTTON_TEXT1177 {
+        width: 259px;
+        top: 9px;
+        left: 0px;
+    }
+    #BUTTON_TEXT1177>.ladi-headline {
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #IMAGE1186 {
+        width: 182.318px;
+        height: 182.318px;
+        top: 146.954px;
+        left: 113.341px;
+    }
+    #IMAGE1186>.ladi-image>.ladi-image-background {
+        width: 182.318px;
+        height: 182.318px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/cosovatchat-1.png");
+    }
+    #IMAGE1186.ladi-animation>.ladi-image {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #IMAGE1187 {
+        width: 182.318px;
+        height: 182.318px;
+        top: 731.272px;
+        left: 113.341px;
+    }
+    #IMAGE1187>.ladi-image>.ladi-image-background {
+        width: 182.318px;
+        height: 182.318px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/cosovatchat-3.png");
+    }
+    #IMAGE1187.ladi-animation>.ladi-image {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #IMAGE1188 {
+        width: 182.318px;
+        height: 182.318px;
+        top: 444px;
+        left: 113.341px;
+    }
+    #IMAGE1188>.ladi-image>.ladi-image-background {
+        width: 182.318px;
+        height: 182.318px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/cosovatchat-2.png");
+    }
+    #IMAGE1188.ladi-animation>.ladi-image {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #IMAGE1189 {
+        width: 182.318px;
+        height: 182.318px;
+        top: 1022.27px;
+        left: 109px;
+    }
+    #IMAGE1189>.ladi-image>.ladi-image-background {
+        width: 182.318px;
+        height: 182.318px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/cosovatchat-4.png");
+    }
+    #IMAGE1189.ladi-animation>.ladi-image {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #IMAGE1190 {
+        width: 182.318px;
+        height: 182.318px;
+        top: 1329.27px;
+        left: 109px;
+    }
+    #IMAGE1190>.ladi-image>.ladi-image-background {
+        width: 182.318px;
+        height: 182.318px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/cosovatchat-5.png");
+    }
+    #IMAGE1190.ladi-animation>.ladi-image {
+        animation-name: bounce;
+        -webkit-animation-name: bounce;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #BOX1192 {
+        width: 296px;
+        height: 80px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1192>.ladi-box {
+        box-shadow: 0px 1px 0px 0px #b8b8b8;
+        -webkit-box-shadow: 0px 1px 0px 0px #b8b8b8;
+        background-color: #ffffff;
+    }
+    #HEADLINE1193 {
+        width: 187px;
+        top: 11px;
+        left: 54.5px;
+    }
+    #HEADLINE1193>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #HEADLINE1194 {
+        width: 254px;
+        top: 37px;
+        left: 18.4216px;
+    }
+    #HEADLINE1194>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 16px;
+        font-style: italic;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #GROUP1191 {
+        width: 296px;
+        height: 80px;
+        top: 626.318px;
+        left: 56.5px;
+    }
+    #BOX1196 {
+        width: 296px;
+        height: 87px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1196>.ladi-box {
+        box-shadow: 0px 1px 0px 0px #b8b8b8;
+        -webkit-box-shadow: 0px 1px 0px 0px #b8b8b8;
+        background-color: #ffffff;
+    }
+    #HEADLINE1197 {
+        width: 187px;
+        top: 13.3312px;
+        left: 54.5px;
+    }
+    #HEADLINE1197>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #HEADLINE1198 {
+        width: 250px;
+        top: 41.8544px;
+        left: 23px;
+    }
+    #HEADLINE1198>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 16px;
+        font-style: italic;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #GROUP1195 {
+        width: 296px;
+        height: 87px;
+        top: 913.59px;
+        left: 56.5px;
+    }
+    #BOX1200 {
+        width: 296px;
+        height: 103px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1200>.ladi-box {
+        box-shadow: 0px 1px 0px 0px #b8b8b8;
+        -webkit-box-shadow: 0px 1px 0px 0px #b8b8b8;
+        background-color: #ffffff;
+    }
+    #HEADLINE1201 {
+        width: 187px;
+        top: 23.8841px;
+        left: 54.4215px;
+    }
+    #HEADLINE1201>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #HEADLINE1202 {
+        width: 256px;
+        top: 55.2319px;
+        left: 19.4215px;
+    }
+    #HEADLINE1202>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 16px;
+        font-style: italic;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #GROUP1199 {
+        width: 296px;
+        height: 103px;
+        top: 1204.59px;
+        left: 56.5px;
+    }
+    #BOX1204 {
+        width: 296px;
+        height: 121.002px;
+        top: 0px;
+        left: 0px;
+    }
+    #BOX1204>.ladi-box {
+        box-shadow: 0px 1px 0px 0px #b8b8b8;
+        -webkit-box-shadow: 0px 1px 0px 0px #b8b8b8;
+        background-color: #ffffff;
+    }
+    #HEADLINE1205 {
+        width: 187px;
+        top: 20.8411px;
+        left: 54.5px;
+    }
+    #HEADLINE1205>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #212121;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #HEADLINE1206 {
+        width: 263px;
+        top: 53.3197px;
+        left: 16.5px;
+    }
+    #HEADLINE1206>.ladi-headline {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #616161;
+        font-size: 16px;
+        font-style: italic;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #GROUP1203 {
+        width: 296px;
+        height: 121.002px;
+        top: 1511.59px;
+        left: 56.9531px;
+    }
+    #SECTION1225 {
+        height: 982.262px;
+    }
+    #IMAGE1226 {
+        width: 420px;
+        height: 245.344px;
+        top: 99px;
+        left: 0.0001px;
+    }
+    #IMAGE1226>.ladi-image>.ladi-image-background {
+        width: 428.889px;
+        height: 285.926px;
+        top: -11px;
+        left: -5px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-1.jpg");
+    }
+    #HEADLINE1227 {
+        width: 393px;
+        top: 32px;
+        left: 17px;
+    }
+    #HEADLINE1227>.ladi-headline {
+        color: #97130b;
+        font-size: 22px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #IMAGE1228 {
+        width: 419.942px;
+        height: 246px;
+        top: 692.056px;
+        left: 0.029px;
+    }
+    #IMAGE1228>.ladi-image>.ladi-image-background {
+        width: 419.942px;
+        height: 366.828px;
+        top: -63px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-2.jpg");
+    }
+    #LINE1229 {
+        height: 126px;
+        top: 9px;
+        left: 203.5px;
+    }
+    #LINE1229>.ladi-line>.ladi-line-container {
+        border-top: 0px !important;
+        border-right: 4px solid #f2420d;
+        border-bottom: 4px solid #f2420d;
+        border-left: 4px solid #f2420d;
+    }
+    #LINE1229>.ladi-line {
+        height: 100%;
+        transform: rotate(-90deg);
+        -webkit-transform: rotate(-90deg);
+        padding: 0px 8px;
+    }
+    #IMAGE1231 {
+        width: 202.792px;
+        height: 156px;
+        top: 355.056px;
+        left: 0.0003px;
+    }
+    #IMAGE1231>.ladi-image>.ladi-image-background {
+        width: 202.792px;
+        height: 156px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-3.jpg");
+    }
+    #IMAGE1234 {
+        width: 202.793px;
+        height: 156px;
+        top: 355.056px;
+        left: 217.207px;
+    }
+    #IMAGE1234>.ladi-image>.ladi-image-background {
+        width: 202.793px;
+        height: 156px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-4.jpg");
+    }
+    #IMAGE1235 {
+        width: 202.676px;
+        height: 155.911px;
+        top: 523.056px;
+        left: 0.0001px;
+    }
+    #IMAGE1235>.ladi-image>.ladi-image-background {
+        width: 202.676px;
+        height: 155.911px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-5.jpg");
+    }
+    #IMAGE1236 {
+        width: 202.677px;
+        height: 155.911px;
+        top: 523.056px;
+        left: 217.265px;
+    }
+    #IMAGE1236>.ladi-image>.ladi-image-background {
+        width: 202.677px;
+        height: 155.911px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/hinhanhnoibat-6.jpg");
+    }
+    #IMAGE1237 {
+        width: 124.776px;
+        height: 112.739px;
+        top: 162px;
+        left: 147.612px;
+    }
+    #IMAGE1237>.ladi-image>.ladi-image-background {
+        width: 124.776px;
+        height: 112.739px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/thongtintuyensinh-1.png");
+    }
+    #IMAGE1240 {
+        width: 124.776px;
+        height: 112.739px;
+        top: 830.217px;
+        left: 154.112px;
+    }
+    #IMAGE1240>.ladi-image>.ladi-image-background {
+        width: 124.776px;
+        height: 165.055px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/thongtintuyensinh-4.png");
+    }
+    #IMAGE1239 {
+        width: 124.776px;
+        height: 112.739px;
+        top: 566.478px;
+        left: 147.612px;
+    }
+    #IMAGE1239>.ladi-image>.ladi-image-background {
+        width: 124.776px;
+        height: 131.089px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/thongtintuyensinh-3.png");
+    }
+    #IMAGE1241 {
+        width: 124.776px;
+        height: 112.739px;
+        top: 361.739px;
+        left: 147.612px;
+    }
+    #IMAGE1241>.ladi-image>.ladi-image-background {
+        width: 124.776px;
+        height: 122.363px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/thongtintuyensinh-2.png");
+    }
+    #HEADLINE1242 {
+        width: 198px;
+        top: 278.739px;
+        left: 106px;
+    }
+    #HEADLINE1242>.ladi-headline {
+        color: #ffca0d;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #HEADLINE1243 {
+        width: 198px;
+        top: 480.739px;
+        left: 113.5px;
+    }
+    #HEADLINE1243>.ladi-headline {
+        color: #ffca0d;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #HEADLINE1244 {
+        width: 198px;
+        top: 690.739px;
+        left: 111px;
+    }
+    #HEADLINE1244>.ladi-headline {
+        color: #ffca0d;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #HEADLINE1245 {
+        width: 198px;
+        top: 950.74px;
+        left: 117.5px;
+    }
+    #HEADLINE1245>.ladi-headline {
+        color: #ffca0d;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #PARAGRAPH1246 {
+        width: 183px;
+        top: 302.739px;
+        left: 113.5px;
+    }
+    #PARAGRAPH1246>.ladi-paragraph {
+        color: #ffffff;
+        font-size: 14px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #PARAGRAPH1247 {
+        width: 272px;
+        top: 504.739px;
+        left: 74px;
+    }
+    #PARAGRAPH1247>.ladi-paragraph {
+        color: #ffffff;
+        font-size: 14px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #PARAGRAPH1248 {
+        width: 352px;
+        top: 718.739px;
+        left: 36.5px;
+    }
+    #PARAGRAPH1248>.ladi-paragraph {
+        color: #ffffff;
+        font-size: 14px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #PARAGRAPH1249 {
+        width: 299px;
+        top: 990.478px;
+        left: 58px;
+    }
+    #PARAGRAPH1249>.ladi-paragraph {
+        color: #ffffff;
+        font-size: 14px;
+        text-align: center;
+        line-height: 1.4;
+    }
+    #BUTTON1250 {
+        width: 317px;
+        height: 40px;
+        top: 1069.48px;
+        left: 58px;
+    }
+    #BUTTON1250>.ladi-button>.ladi-button-background {
+        background-color: #ffca0d;
+    }
+    #BUTTON1250>.ladi-button {
+        border-radius: 10px;
+        border-style: groove;
+        border-color: rgba(0, 0, 0, 0);
+        border-width: 1px;
+    }
+    #BUTTON1250.ladi-animation>.ladi-button {
+        animation-name: pulse;
+        -webkit-animation-name: pulse;
+        animation-delay: 1s;
+        -webkit-animation-delay: 1s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: infinite;
+        -webkit-animation-iteration-count: infinite;
+    }
+    #BUTTON_TEXT1250 {
+        width: 315px;
+        top: 9px;
+        left: 0px;
+    }
+    #BUTTON_TEXT1250>.ladi-headline {
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #SECTION1264 {
+        height: 749.867px;
+    }
+    #SECTION1264>.ladi-overlay {
+        background-color: rgba(163, 13, 1, 0.7);
+    }
+    #SECTION1264>.ladi-section-background {
+        background-size: cover;
+        background-attachment: scroll;
+        background-origin: content-box;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/banner-bottom.jpg");
+        background-position: center top;
+        background-repeat: no-repeat;
+    }
+    #IMAGE1265 {
+        width: 94.3934px;
+        height: 75px;
+        top: 23px;
+        left: 162.803px;
+    }
+    #IMAGE1265>.ladi-image>.ladi-image-background {
+        width: 94.3934px;
+        height: 75px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/logo-trang.png");
+    }
+    #IMAGE1266 {
+        width: 253.374px;
+        height: 85px;
+        top: 352px;
+        left: 113.803px;
+    }
+    #IMAGE1266>.ladi-image>.ladi-image-background {
+        width: 195.374px;
+        height: 67px;
+        top: 0px;
+        left: 0px;
+        background-image: url("https://tuyensinhglobaldongnai.ttcschool.edu.vn/view-resources/views/LandingPage/images/LogoCambridge-01.png");
+    }
+    #HEADLINE1269 {
+        width: 322px;
+        top: 137.867px;
+        left: 49px;
+    }
+    #HEADLINE1269>.ladi-headline {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff;
+        font-size: 16px;
+        text-align: center;
+        line-height: 1.2;
+    }
+    #SHAPE1277 {
+        width: 31.875px;
+        height: 30px;
+        top: 230.367px;
+        left: 58px;
+    }
+    #SHAPE1277 svg:last-child {
+        fill: #ffffff;
+    }
+    #HEADLINE1278 {
+        width: 360px;
+        top: 114.867px;
+        left: 60.5px;
+    }
+    #HEADLINE1278>.ladi-headline {
+        color: #ffffff;
+        font-size: 15px;
+        font-weight: bold;
+        line-height: 1.6;
+    }
+    #SHAPE1280 {
+        width: 31.875px;
+        height: 30px;
+        top: 263.867px;
+        left: 58px;
+    }
+    #SHAPE1280 svg:last-child {
+        fill: #ffffff;
+    }
+    #SHAPE1281 {
+        width: 31.875px;
+        height: 30px;
+        top: 295.867px;
+        left: 58px;
+    }
+    #SHAPE1281 svg:last-child {
+        fill: #ffffff;
+    }
+    #HEADLINE1282 {
+        width: 322px;
+        top: 230.367px;
+        left: 109px;
+    }
+    #HEADLINE1282>.ladi-headline {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff;
+        font-size: 14px;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #HEADLINE1283 {
+        width: 322px;
+        top: 269.867px;
+        left: 109px;
+    }
+    #HEADLINE1283>.ladi-headline {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff;
+        font-size: 14px;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #HEADLINE1284 {
+        width: 322px;
+        top: 306.867px;
+        left: 109px;
+    }
+    #HEADLINE1284>.ladi-headline {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff;
+        font-size: 14px;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #SHAPE1312 {
+        width: 31.875px;
+        height: 30px;
+        top: 191.367px;
+        left: 58px;
+    }
+    #SHAPE1312 svg:last-child {
+        fill: #ffffff;
+    }
+    #HEADLINE1313 {
+        width: 171px;
+        top: 196.867px;
+        left: 109px;
+    }
+    #HEADLINE1313>.ladi-headline {
+        font-family: "Roboto", sans-serif;
+        color: #ffffff;
+        font-size: 16px;
+        text-align: left;
+        line-height: 1.2;
+    }
+    #HTML_CODE1314 {
+        width: 400px;
+        height: 320.867px;
+        top: 444px;
+        left: 10px;
+    }
+    #BUTTON_TEXT1318 {
+        width: 238px;
+        top: 9px;
+        left: 0px;
+    }
+    #BUTTON_TEXT1318>.ladi-headline {
+        color: #ffffff;
+        font-size: 13px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.6;
+    }
+    #BUTTON1318 {
+        width: 190.35px;
+        height: 31.9917px;
+        top: 220px;
+        left: 76.325px;
+    }
+    #BUTTON1318>.ladi-button>.ladi-button-background {
+        background: #911710;
+        background: -webkit-linear-gradient(180deg, #911710, #e70d00);
+        background: linear-gradient(180deg, #911710, #e70d00);
+    }
+    #BUTTON1318>.ladi-button {
+        border-radius: 5px;
+    }
+    #BUTTON1318.ladi-animation>.ladi-button {
+        animation-name: bounceInLeft;
+        -webkit-animation-name: bounceInLeft;
+        animation-delay: 2s;
+        -webkit-animation-delay: 2s;
+        animation-duration: 1s;
+        -webkit-animation-duration: 1s;
+        animation-iteration-count: 1;
+        -webkit-animation-iteration-count: 1;
+    }
+    #PARAGRAPH1320 {
+        width: 195px;
+        top: 181px;
+        left: 71.5px;
+    }
+    #PARAGRAPH1320>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffa800;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 1.8;
+    }
+    #PARAGRAPH584 {
+        width: 233px;
+        top: 53.0334px;
+        left: 71px;
+    }
+    #PARAGRAPH584>.ladi-paragraph {
+        font-family: 'Myriad Pro', sans-serif;
+        color: #ffffff;
+        font-size: 15px;
+        text-align: justify;
+        line-height: 1.4;
+    }
+}
